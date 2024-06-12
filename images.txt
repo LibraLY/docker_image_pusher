@@ -1,3 +1,4 @@
+mysql
 nocobase/nocobase
 nginx
 #支持私库
