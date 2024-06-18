@@ -2,7 +2,7 @@ mysql
 nocobase/nocobase:main
 nginx
 bitnami/kafka
-thingsboard/tb-cassandra
+thingsboard/tb-cassandra:3.6.4
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
