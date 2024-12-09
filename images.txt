@@ -4,3 +4,4 @@ nocobase/nocobase:main
 nginx
 bitnami/kafka
 thingsboard/tb-cassandra:3.6.4
+
